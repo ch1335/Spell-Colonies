@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "com.chen1335.spellColonies.mixins.main",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "com.chen1335.spellColonies.mixins.main.MixinPlugin",
+  "mixins": [
+    "AbstractBuildingMixin",
+    "AbstractEntityCitizenMixin",
+    "AbstractSpellMixin",
+    "BuildingEntry$BuilderMixin",
+    "CitizenSkillHandlerMixin",
+    "CitizenWindowUtilsMixin",
+    "EntityMixin",
+    "PlayerAnimationFactory$FactoryHolderMixin",
+    "PlayerRecastsMixin",
+    "UtilsMixin"
+  ],
+  "client": [
+    "CitizenArmorLayerMixin",
+    "CitizenModelMixin",
+    "RenderBipedCitizenMixin"
+  ],
+  "minVersion": "0.8"
+}

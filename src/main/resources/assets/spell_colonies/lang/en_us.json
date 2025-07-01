@@ -1,0 +1,7 @@
+{
+  "spell_colonies.info.skillLevelUp": "%s's %s has increased! (now %s)",
+  "com.spell_colonies.job.magician": "Magician",
+  "com.spell_colonies.coremod.gui.workerhuts.magician": "Magician",
+  "spell_colonies:magician.job.desc": "A powerful magician who can cast spells based on the spell scrolls in their inventory.",
+  "spell_colonies:magician.skills.desc": "Affects spell strength and spell cooldown time."
+}

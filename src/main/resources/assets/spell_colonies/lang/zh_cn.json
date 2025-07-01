@@ -1,0 +1,7 @@
+{
+  "spell_colonies.info.skillLevelUp": "%s的%s提升了！(当前%s)",
+  "com.spell_colonies.job.magician": "魔法师",
+  "com.spell_colonies.coremod.gui.workerhuts.magician": "魔法师",
+  "spell_colonies:magician.job.desc": "强大的魔法师，可以释放的法术基于他们背包内的法术卷轴。",
+  "spell_colonies:magician.skills.desc": "影响法术强度与法术冷却时间"
+}
